@@ -1,3 +1,6 @@
+Hi!
+It's my Discord AlexisLefebvre#8127
+
 <!-- # 🪙 Token -->
 
 [//]: # (<img alt="workshop/token" width="1412" src="../.resources/token.png">)
